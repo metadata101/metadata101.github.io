@@ -15,7 +15,7 @@ An XML metadata schema in metadata101 consists of:
 
 This information, along with an identifier, name, and description for the metadata schema, is described in an XML file called `ident.xml`.
 
-An example metadata101 schema is the Marine Community Profile of ISO19115/19139, which can be found [here](http://github.com/metadata101/Marine-Community-Profile-1.5).
+An example metadata101 schema is the Marine Community Profile of ISO19115/19139, which can be found [here](https://github.com/metadata101/iso19139.mcp-2.0).
 
 ---
 
