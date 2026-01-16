@@ -1,1 +1,1 @@
-Webpage for https://www.metadata101.org
+Webpage for https://metadata101.org
