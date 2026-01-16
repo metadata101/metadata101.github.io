@@ -1,6 +1,6 @@
 # metadata101.github.io
 
-This repository contains the source code for the [metadata101.org](https://www.metadata101.org) website, which is hosted using GitHub Pages.
+This repository contains the source code for the [metadata101.org](https://metadata101.org) website, which is hosted using GitHub Pages.
 
 ## About
 
@@ -65,7 +65,7 @@ website/
 
 ## Publishing
 
-This repository uses GitHub Pages. Any changes pushed to the main branch will automatically be built and published to https://www.metadata101.org
+This repository uses GitHub Pages. Any changes pushed to the main branch will automatically be built and published to https://metadata101.org
 
 ## License
 
@@ -83,4 +83,4 @@ For major changes, please open an issue first to discuss proposed changes.
 
 ## Contact
 
-For questions or feedback about the metadata101 project, please visit [https://www.metadata101.org](https://www.metadata101.org) or open an issue in this repository.
+For questions or feedback about the metadata101 project, please visit [https://metadata101.org](https://metadata101.org) or open an issue in this repository.
